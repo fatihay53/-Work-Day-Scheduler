@@ -28,13 +28,14 @@ THEN the saved events persist
 
 ## Assets
 
-R assets/Work-Day-Scheduler.jpg
+assets/Work-Day-Scheduler.jpg
+![Getting Started](assets/Work-Day-Scheduler.jpg)
 
 ## links
 
-Github :
+Github : https://github.com/fatihay53/Work-Day-Scheduler
 
-Github published:
+Github published:https://fatihay53.github.io/Work-Day-Scheduler/
 
 
 
