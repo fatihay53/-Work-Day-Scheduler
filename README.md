@@ -28,7 +28,7 @@ THEN the saved events persist
 
 ## Assets
 
-assets/Work-Day-Scheduler.jpg
+
 ![Getting Started](assets/Work-Day-Scheduler.jpg)
 
 ## links
